@@ -1,5 +1,5 @@
-// GBPUSD H1 STRUCT — 08.10.2026
-// spot ~1.3210 | this week 1.3188–1.3287 | PP 1.3243 | week lows 1.3180/1.3188 | Sep30 high 1.3313 | broken floor 1.3334
+// GBPUSD H1 STRUCT — 09.10.2026
+// spot ~1.3244 | week 1.3180–1.3287 | PP 1.3243 | week lows 1.3180/1.3183/1.3188 | Sep30 high 1.3313 | broken floor 1.3334 | W-R1 1.3305 | W-S1 1.3175
 // === ПОДДЕРЖКИ ===
 S 1.3178 1.3192
 S 1.3132 1.3146
