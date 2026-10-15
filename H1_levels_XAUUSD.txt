@@ -1,6 +1,5 @@
-// XAUUSD H1 global — 14.10.2026
-// price ~4160-4165, today low ~4144 high ~4170, yesterday high ~4200 low ~4147, week high ~4217-4226 low ~4066
-S 4095 4116
-S 4138 4159
-R 4180 4201
-R 4225 4246
+// XAUUSD H1 global — 15.10.2026
+S 4065 4086
+S 4108 4129
+R 4168 4189
+R 4215 4236
