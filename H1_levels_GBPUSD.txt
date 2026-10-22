@@ -1,5 +1,5 @@
-// GBPUSD H1 STRUCT — 21.10.2026
-// spot ~1.3375 | week low 1.3139 (14.10) / high 1.3408 (20.10) | PP ~1.3270 | bias: mild bullish above 1.3300, test week high
+// GBPUSD H1 STRUCT — 22.10.2026
+// spot ~1.3398 | week low 1.3136 (14.10) / high 1.3411 (20.10) | PP ~1.3274 | bias: mild bullish, тест week high / R1
 // === ПОДДЕРЖКИ ===
 S 1.3306 1.3320
 S 1.3264 1.3278
